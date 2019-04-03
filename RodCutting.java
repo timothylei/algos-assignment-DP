@@ -1,3 +1,8 @@
+/**
+ * RodCutting
+ * Author: Timothy Lei
+ */
+
 public class RodCutting {
 
 	private int rodCuttingRecur(int rodLength, int[] lengthPrices) {
