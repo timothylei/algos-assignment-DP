@@ -1,5 +1,6 @@
 /**
  * Glass Falling
+ Author: Timothy Lei
  */
 public class GlassFalling {
 	
